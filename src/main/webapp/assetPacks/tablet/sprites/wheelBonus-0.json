@@ -1,0 +1,57 @@
+{"frames": {
+
+"rim.png":
+{
+	"frame": {"x":0,"y":0,"w":1265,"h":1265},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":55,"w":1265,"h":1265},
+	"sourceSize": {"w":1315,"h":1330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheel-10x.png":
+{
+	"frame": {"x":545,"y":1282,"w":229,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":143},
+	"sourceSize": {"w":229,"h":143},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheel-center.png":
+{
+	"frame": {"x":774,"y":1282,"w":131,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":130},
+	"sourceSize": {"w":131,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheel-selector.png":
+{
+	"frame": {"x":0,"y":1265,"w":545,"h":287},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":545,"h":287},
+	"sourceSize": {"w":548,"h":287},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheelBonusWinDivider.png":
+{
+	"frame": {"x":545,"y":1265,"w":590,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":590,"h":17},
+	"sourceSize": {"w":590,"h":17},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wheelBonus-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1265,"h":1552},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8b662b4f30be19c53d82c2e8adaadb62:96ec52365260b791863f480d2d5e9ddb:735d7be9ab9d94e2d098cd0ab09eb3b7$"
+}
+}

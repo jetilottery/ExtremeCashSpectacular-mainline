@@ -1,0 +1,34 @@
+{
+  "urls": [
+    "ch6.mp3",
+    "ch6.ogg",
+    "ch6.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "GoldBar6": [
+      1050,
+      997.2562358276645
+    ],
+    "LuckyNumberSelect_4": [
+      2100,
+      1526.3718820861677
+    ],
+    "WheelBonusTriggered": [
+      4150,
+      3001.6780045351475
+    ],
+    "YourNumberSelect_4": [
+      8200.000000000002,
+      862.5850340136054
+    ],
+    "YourNumberSelect_RevealAll": [
+      9250.000000000002,
+      2997.936507936508
+    ]
+  }
+}

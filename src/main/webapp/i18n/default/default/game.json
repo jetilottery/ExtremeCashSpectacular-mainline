@@ -1,0 +1,151 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "is {@minRTP}%",
+    "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "descriptionText1": "Number Match Win",
+    "descriptionText2": "Prize Bonus Win",
+    "descriptionText3": "Wheel Bonus Win",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play"
+  },
+  "title": "Extreme Cash Spectacular",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY "
+    },
+    "footer_win": {
+      "BUY": "WIN",
+      "TRY": "DEMO WIN"
+    },
+    "button_wheel": "SPIN",
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_retry": "RETRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "MOVE TO MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_autoPlayCollectBonus": "AUTO REVEAL",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "TOTAL WIN",
+      "TRY": "TOTAL DEMO WIN"
+    },
+    "howToPlayTitle": "HOW TO PLAY",
+    "bonusCard": {
+      "landscape": {
+        "InstantWin": "INSTANT WIN",
+        "WheelBonus": "WHEEL BONUS",
+        "CollectBonus": "PRIZE BONUS"
+      },
+      "portrait": {
+        "InstantWin": "INSTANT\nWIN",
+        "WheelBonus": "WHEEL\nBONUS",
+        "CollectBonus": "PRIZE\nBONUS"
+      }
+    },
+    "howToPlay": {
+      "page1": {
+        "landscape": {
+          "text1": "Match Your Numbers to Winning Numbers and win the corresponding prize.",
+          "text2": "{instantWin} Reveal a Blue Gem symbol to instantly win the corresponding prize.",
+          "text3": "{instantWin10X} Reveal a 2x symbol to instantly win double the prize amount."
+        },
+        "portrait": {
+          "text1": "Match Your Numbers to Winning Numbers and win the corresponding prize.",
+          "text2": "{instantWin}Reveal a Blue Gem symbol to instantly\nwin the corresponding prize.",
+          "text3": "{instantWin10X} Reveal a 2x symbol to instantly win\ndouble the prize amount."
+        }
+      },
+      "page2": {
+        "landscape": {
+          "text1": "{wheel} Reveal a Wheel Bonus symbol to trigger the Wheel Bonus.",
+          "text2": "WHEEL BONUS – Press Spin to spin the wheel. When the wheel stops, the pointer indicates the prize won on the inner wheel, and the prize multiplier on the outer wheel."
+        },
+        "portrait": {
+          "text1": "{wheel} Reveal a Wheel Bonus symbol to trigger\nthe Wheel Bonus.",
+          "text2": "WHEEL BONUS – Press Spin to spin the wheel.\nWhen the wheel stops, the pointer indicates the prize won on the inner wheel,\nand the prize multiplier on the outer wheel."
+        }
+      },
+      "page3": {
+        "landscape": {
+          "text1": "{collect} Reveal a Prize Bonus symbol to trigger the Prize Bonus.",
+          "text2": "PRIZE BONUS - Press Diamonds to reveal prizes. Prizes accumulate in the Total Bonus Win meter.\nReveal a Gold Star to end the bonus and collect the prizes."
+        },
+        "portrait": {
+          "text1": "{collect} Reveal a Prize Bonus symbol to trigger\nthe Prize Bonus.",
+          "text2": "PRIZE BONUS - Press Diamonds to\nreveal prizes. Prizes accumulate in the\nTotal Bonus Win meter.\nReveal a Gold Star to end the bonus\nand collect the prizes."
+        }
+      }
+    },
+    "winUpToText": "WIN UP TO",
+    "winUpToValue": "{0}!",
+    "bonus": "BONUS",
+    "bonusNoWin": "NO BONUS WIN",
+    "bonusWin": "BONUS: {0}",
+
+    "winAll": "WIN ALL",
+    "bonusLives": "FIND 3 TO END BONUS",
+    "bonusInfo": "FIND 3 OR MORE GOLD STARS TO WIN!",
+
+    "collect": "COLLECT",
+    "collectBonusInfo": "REVEAL THE GOLD STAR TO END THE\nBONUS & COLLECT YOUR PRIZES!",
+    "collectBonusTotalWin": "TOTAL BONUS WIN",
+
+    "yourNumbersPromptText": "PRIZE",
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "WINNING NUMBERS",
+    "wheelBonus": {
+      "winUpToLine1": "UP TO",
+      "winUpToLine2": "MULTIPLE OF PRIZE",
+      "winPlaque": {
+        "prize": "PRIZE",
+        "multiplier": "MULTIPLIER",
+        "totalWin": "TOTAL BONUS WIN"
+      }
+    }
+  }
+}

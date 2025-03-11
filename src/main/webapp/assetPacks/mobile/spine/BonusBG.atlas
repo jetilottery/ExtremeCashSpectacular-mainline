@@ -1,0 +1,39 @@
+
+BonusBG.jpg
+size: 1444,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Land/nonTrans/BGcolour
+  rotate: false
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+
+BonusBG.png
+size: 143,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Land/Trans/Sweep
+  rotate: false
+  xy: 2, 2
+  size: 139, 328
+  orig: 139, 328
+  offset: 0, 0
+  index: -1
+
+BonusBG2.jpg
+size: 814,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Port/BGcolour
+  rotate: false
+  xy: 2, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
